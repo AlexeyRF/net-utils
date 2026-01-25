@@ -1,4 +1,3 @@
-import socket
 import requests
 def get_ip():
     try:
