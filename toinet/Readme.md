@@ -8,12 +8,14 @@
   Основная папка:<br>
   data # из корня TEB<br>
   tor # из корня TEB<br>
-  файлы из папки tray<br><br>
+  файлы из папки tray<br>
+  в файл bridges.txt заносите мосты так же как вам их даёт бот в ТГ
+  <br><br>
 
 Для CLI:<br>
   Основная папка:<br>
   tor.exe<br>
-  launcher.py # не забудьте занести туда моста<br>
+  launcher.py # не забудьте занести туда мосты<br>
   tor-gencert.exe<br>
   data # из корня TEB<br>
   pluggable_transports<br>
