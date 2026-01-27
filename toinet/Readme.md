@@ -18,5 +18,5 @@
   data # из корня TEB<br>
   pluggable_transports<br>
 
-Использую Python 3.10.1
+Использую Python 3.10.1<br>
 PS это делается, чтобы РКН не имел повода заблокировать Github 
